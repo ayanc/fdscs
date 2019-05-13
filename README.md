@@ -26,4 +26,4 @@ This code looks will look for color image files `*_10.png` corresponding to ster
 
 ## Training
 
--TODO
+-TODO (prepare data according to files in `data/`, and run `ptrain.py`, then `train.py` and then `popstats.py` to compute population stats for BN layers)
